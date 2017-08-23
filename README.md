@@ -1,5 +1,7 @@
 # RunJournal
 
+This app was created by following the tutorial [Angular 4 Tutorial - GPS Activity Mapping App](https://www.youtube.com/watch?v=EHdSb279Lzg) by [Wes Doyle](https://www.youtube.com/channel/UCfniixfhHqpIGbU7z2JCNJw)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
